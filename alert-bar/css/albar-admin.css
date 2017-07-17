@@ -1,0 +1,9 @@
+form h3{
+	border-top: solid rgba(80,80,80,0.4) 1px;
+	padding-top: 1em;
+}
+
+.wp-editor-wrap {
+	width: 600px;
+	max-width: 100%;
+}
