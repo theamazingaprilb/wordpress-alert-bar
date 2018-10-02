@@ -4,7 +4,7 @@
  * Description: Displays an alert banner on your page that can be dismissed.
  * Version: 1.0.0
  * Author: Doug Marshall
- * Author URI: http://www.candcstudio.com
+ * Author URI: http://www.theamazingdoug.com
  */
 
 require_once albar_dir("lib/class-alert-bar.php");
