@@ -3,8 +3,8 @@
  * Plugin Name: Alert Bar
  * Description: Displays an alert banner on your page that can be dismissed.
  * Version: 1.0.0
- * Author: Doug Marshall
- * Author URI: http://www.theamazingdoug.com
+ * Author: April Marshall
+ * Author URI: http://www.aprilagain.com
  */
 
 require_once albar_dir("lib/class-alert-bar.php");
